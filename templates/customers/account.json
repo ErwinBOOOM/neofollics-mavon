@@ -1,0 +1,31 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-account",
+      "settings": {
+        "account_page_title_bar": true,
+        "account_page_title": true,
+        "account_page_breadcrumb": true,
+        "customer_color_scheme": "",
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "account_padding_top": 60,
+        "account_padding_bottom": 60,
+        "mobile_padding_top": 30,
+        "mobile_padding_bottom": 30
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
