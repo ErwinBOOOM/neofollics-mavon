@@ -1,0 +1,8 @@
+# Don’t deploy local-only stuff
+node_modules/
+dist/
+build/
+.vscode/
+.env
+README.md
+.github/
