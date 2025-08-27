@@ -1,0 +1,16 @@
+# OS / editors
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Node / build
+node_modules/
+dist/
+build/
+.cache/
+*.map
+
+# Secrets
+.env
+.shopify/*

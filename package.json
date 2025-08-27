@@ -1,0 +1,19 @@
+{
+  "name": "neofollics-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "theme-check",
+    "format": "prettier --write .",
+    "build": "echo \"(add your bundler here if needed)\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@shopify/theme-check-common": "^3.20.1",
+    "prettier": "^3.6.2",
+    "prettier-plugin-liquid": "^0.0.1-security"
+  }
+}
