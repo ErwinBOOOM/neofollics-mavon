@@ -15,7 +15,7 @@
         "ai_gen_block_ec78096_rXNXGP": {
           "type": "ai_gen_block_ec78096",
           "settings": {
-            "ingredients_collection": "",
+            "ingredients_collection_handle": "ingredients-all",
             "grid_gap": 24,
             "section_padding": 40,
             "card_background_color": "#ffffff",
