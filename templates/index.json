@@ -9,6 +9,37 @@
  */
 {
   "sections": {
+    "1756283530b799c6af": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_ec78096_rXNXGP": {
+          "type": "ai_gen_block_ec78096",
+          "settings": {
+            "ingredients_collection_handle": "ingredients-all",
+            "grid_gap": 24,
+            "section_padding": 40,
+            "card_background_color": "#ffffff",
+            "card_border_color": "#e5e5e5",
+            "card_border_radius": 8,
+            "card_padding": 20,
+            "label_background_color": "#f0f0f0",
+            "label_text_color": "#333333",
+            "title_color": "#333333",
+            "title_size": 18,
+            "description_color": "#666666",
+            "description_size": 14,
+            "image_size": 80,
+            "image_border_radius": 6,
+            "placeholder_background_color": "#f5f5f5"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_ec78096_rXNXGP"
+      ],
+      "settings": {}
+    },
     "618a0282-c079-42aa-a005-eb543079cfcb": {
       "type": "slideshow",
       "blocks": {
@@ -1029,9 +1060,54 @@
         "mobile_padding_bottom": 50,
         "color_scheme": "background-1"
       }
+    },
+    "rich_text_BrEpR9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aawHKd": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand</p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_A9nbKF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "text_size": "small",
+            "text_color": "body"
+          }
+        },
+        "button_AE6LFe": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary",
+            "button_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aawHKd",
+        "text_A9nbKF",
+        "button_AE6LFe"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "alignment": "center",
+        "mobile_alignment": "center",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "mobile_padding_top": 50,
+        "mobile_padding_bottom": 50
+      }
     }
   },
   "order": [
+    "1756283530b799c6af",
     "618a0282-c079-42aa-a005-eb543079cfcb",
     "d44df9ba-590e-4897-ac87-688fb80d2e8d",
     "166444164940fb6e0d",
@@ -1045,6 +1121,7 @@
     "c36571d8-e81f-4941-ab6d-a040376b1277",
     "85f5ecbf-c294-4840-90ca-30e491229524",
     "1648973483bfcecf4a",
-    "timeline_BAbE6W"
+    "timeline_BAbE6W",
+    "rich_text_BrEpR9"
   ]
 }
